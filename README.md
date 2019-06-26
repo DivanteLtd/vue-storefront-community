@@ -7,3 +7,7 @@ We invite you to read it, and interact with it. Questions or thoughts about some
 Do you have a proposal for us to do something differently? Create a PR.
 
 We hope that by Open Sourcing our community effort, we can make working and interacting with VueStorefront, StorefrontUI and all of it's other projects a pleasure for everyone.
+
+## Contents
+
+0. *Contribution Program* - our thoughts on making it worth while participating in our Open Source projects
