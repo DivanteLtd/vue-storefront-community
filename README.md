@@ -10,4 +10,4 @@ We hope that by Open Sourcing our community effort, we can make working and inte
 
 ## Contents
 
-0. *Contribution Program* - our thoughts on making it worth while participating in our Open Source projects
+0. **Contribution Program** - our thoughts on making it worth while participating in our Open Source projects
