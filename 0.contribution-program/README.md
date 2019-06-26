@@ -1,5 +1,8 @@
 # Contribution Program
 
+> Please note, this project is currently in proposal phase
+> We ask you to provide feedback on our plans
+
 The Contributors program recognizes the efforts made by individual contributors, as well as the companies that enable them to do so.
 
 The program tracks the contributions made across the VueStorefront and Storefront UI projects both in the form of code, documentation, as well as answered questions, conference presentations given, blog articles written, and any other public efforts. 
