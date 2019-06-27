@@ -2,6 +2,7 @@
 
 > Please note, this project is currently in proposal phase
 > We ask you to provide feedback on our plans
+> Leave your feedback on this page under [the related issue](https://github.com/DivanteLtd/vue-storefront-community/issues/1), suggest changes via PRs
 
 The Contributors program recognizes the efforts made by individual contributors, as well as the companies that enable them to do so.
 
