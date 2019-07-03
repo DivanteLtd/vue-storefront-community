@@ -18,7 +18,7 @@ The points will differ based on the effort.
 - Approved PR - 10, 30 or 100 points depending on size
 - Approved documentation contribution - 10, 30 or 100 points
 - Accepted forum answer - 10 points
-- Conference or Meetup presentation - 100 points
+- Conference or Meetup presentation - 50, 100 or 300 points - a meetup has to be open for public to atend so it cannot be a company internal event, slides and possibly a recording have to be shared online 
 - Blog post written - 50 points
 
 Please be aware attribution of points is subject to the VSF Community teams judgement.
