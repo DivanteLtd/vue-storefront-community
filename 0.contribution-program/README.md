@@ -1,13 +1,11 @@
 # Contribution Program
 
-> Please note, this project is currently in proposal phase
-> We ask you to provide feedback on our plans
-> Leave your feedback on this page under [the related issue](https://github.com/DivanteLtd/vue-storefront-community/issues/1), suggest changes via PRs
-
 The Contributors program recognizes the efforts made by individual contributors, as well as the companies that enable them to do so.
 
 The program tracks the contributions made across the VueStorefront and Storefront UI projects both in the form of code, documentation, as well as answered questions, conference presentations given, blog articles written, and any other public efforts. 
 This allows also non-technical contributors to enter the program.
+
+Submit your contributions via [https://forms.gle/qM8tGuvsNxxahMdK6](https://forms.gle/qM8tGuvsNxxahMdK6).
 
 ## Points and rewards
 Every 3 months all contributors start with a clean slate. Through contributions, points are gained resulting in a scoreboard. The top 25 contributors receive a star as well as getting access to the Contributor Access program the following month.
